@@ -1,6 +1,6 @@
 ---
 title: Your MkDocs CMS
-summary: 'CloudCannon for MkDocs is '
+summary: 'CloudCannon for MkDocs '
 authors:
     - Miri Forbes
     - Rowan Stokes
