@@ -8,9 +8,9 @@ date: 2022-04-04T07:00:00Z
 some_url: https://cloudcannon.com
 ---
 
-# Edit in Markdown
+# Edit in Markdown with CloudCannon.
 
-## Write the docs.
+## Now you can write the docs as easily as you can read them.
 
 Keep the whole team on the same page — and empower all of your writers to edit and build new pages.
 
