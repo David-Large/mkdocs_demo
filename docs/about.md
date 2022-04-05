@@ -1,62 +1,36 @@
 ---
-title: My Document
-summary: A brief description of my document.
+title: Your MkDocs CMS
+summary: 'CloudCannon for MkDocs is '
 authors:
-    - Waylan Limberg
-    - Tom Christie
-date: 2018-07-10
-some_url: https://example.com
+    - Miri Forbes
+    - Rowan Stokes
+date: 2022-04-04T07:00:00Z
+some_url: https://cloudcannon.com
 ---
-# Hoc et hinc
 
-## Phoebus at potest imis sanguinis nisi sacros
+# Edit in Markdown
 
-Lorem markdownum, nexu videndi, canities et insania Aesone ait exilio solet vidi
-monstro. Impetus quid illa quae, lintea timide: erat *cum*. Noctem sinistrae
-vasti me irascentemque toto hostilia dixit, erat, restant ne picae bella docti
-amentis ubi. Ad rumpere, ait hoc commentaque pars hanc vipereos Assyrii falcato
-arcuerat viderat consumpserat Arctos, ne nodosaque amplexu.
+## Write the docs.
 
-- Ramos tot quoniam puppis populisque arcebat procul
-- Nec nox ponto
-- Nec equi
-- Suasit duarum primum sensit stramine
-- Ista ligati tempus pars lunae flamma novi
-- Increpuit mentem vimque Lucifero parum cereris tamen
+Keep the whole team on the same page — and empower all of your writers to edit and build new pages.
 
-Essem est causa adfusaque quaeque. Et filia secreta.
+* Bring your existing MkDocs websites
+* Build new documentation sites in less than a minute
+* Rich forms and DAM integration
+* Rely on Git's version control
+* Build, edit, and host from one provider
+* Collaborate on your docs with CloudCannon
 
-## Frondibus iuventae ut velut plumbea
+## Draft, review, and approve new content, together
 
-Troica inrequieta referam tibi nisi
-[terraeque](http://est-vocabis.org/manusque.html) tendentem formatum. Quoque
-festa *pariterque nunc* demisit hac vel, arboris ultimus squamigeris. Unda genus
-herbae Gigantas te tutius mollia rediit, hoc perpetuaque in herbis variis, et.
+**Create customized approval workflows so your team can truly collaborate.**
 
-Onus non, loco toto, mortemque domum corpus, et baculum ferro! Tamen et, quid
-ita, *referebat*! Ulixes flumina hic poenas natus Parrhasis vocat virginis bella
-ut cum iam adfer, est. Pallentemque facis perfudit pinum subiectis parenti
-micat, adgrediare fronde: Pelias velox porrexit gurgite. Feris quaeritur venenis
-me numina arte sequiturque Burin, erat ignari *specieque*, illi sed servasset!
+Define your content workflows to reflect exactly what your team needs. With CloudCannon you can draft, review, and test new features on standalone staging sites for approval on any device before publishing to production.
 
-Parili redde numeroque vidisti se deque forsitan nec idem demisere: vectus
-extemplo, in. Dat ait, deciperetur quem nos est forma deos requiris? Meritum
-voluit, primique in unde noviens silvamque sequitur se siquis murmure quaeque
-duobus ferrum decens.
+## **Close the loop between your technical and non-technical teams**
 
-## Nulli verba sororum
+Developers and content editors can work simultaneously with the same tools — and even on the same branch — keeping changes separate until they’re ready to publish. Because everyone uses two-way Git syncing, everyone's work is always accessible, with no roadblocks.
 
-Tum sed mollita fuerat erudit, volvere audito: **perque**. Rogat scindit posito
-praedae, et *Troia*? Natam non terraeque ignavis, ter ruricolae, dente nec *ripa
-medios*, dicta! Frequentant exasperat *Medusa* imagine idem figuras quam;
-**faciat illum**: simul malis.
-
-- Meliora sponsusve Olympo
-- Etiam caelo amicas Desierat poteram gerebant acies
-- Suo quidem exit
-- Cum est lacu cancro hastam erat laboris
-- Ait mecum carmina placabilis dedit visa illic
-
-Cornix miserabilis condita artus iussit saeva, tetigere defensae est; ad, non.
-Facies nate *propior litora vulnus*, et credita cruor. Fati alter cupressu,
-letale lupis.
+* Visual editing
+* Developer workflows
+* Edge hosting
